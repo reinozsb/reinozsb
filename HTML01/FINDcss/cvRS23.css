@@ -1,0 +1,111 @@
+* { 
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+header {
+    position: relative;
+    margin: 90px auto;
+    width: 1000px;
+    height: 190px;
+    border-top-left-radius: 10px;
+    border: 5px solid rgb(116, 27, 143);
+}
+.redes {
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    background: transparent;
+    border-radius: 100%;
+}
+#Tit1 {
+    
+    color: rgb(12,12,120);
+    text-shadow: 6px 7px 20px rgb(12, 12, 141);
+    font-size: x-large;
+    text-align: right;
+}
+#foto {
+    width: 90px;
+    height: 90px;
+}
+
+#facebook {
+    top: 150px;
+    right: 120px;
+    background: grey;
+}
+#instagram {
+    top: 150px;
+    right: 71px;
+    border-radius: 100%;
+    background: grey;
+}
+#whatsapp {
+    top: 150px;
+    right: 19px;
+    background: grey;
+}
+body {
+    background: white;
+}
+nav {
+    position: relative; 
+    margin:auto;
+    width: 1000px;
+    height: 90px;
+    
+}
+.botones {
+    float: left;
+    width: 150px;
+    height: 90px;
+    margin: 0px 90px;
+    text-align:center ;
+    background-color: blueviolet;
+}
+#top ul li {
+    float: left;
+    width: 326px;
+    height: 58px;
+    margin-right: 10px;
+}
+#top ul {
+    
+    width: 1010px;
+    height: 182px;
+    
+}
+table {
+    float: left;
+    margin: 20px;    
+    border: 3px solid black;
+    background: orangered;
+    color: white
+}
+#top div ul {
+    margin: auto;
+    width: 80px;
+    height: 192px;
+    background: rgb(107, 28, 107);
+    border: 10px solid rgb(37, 15, 88);
+}
+* p {
+    text-align: top left;
+}
+footer li {
+    position: relative; 
+    margin: 40px auto;
+    width: 1000px;
+    height: 70px;
+    background: grey;
+    text-align: center;
+    line-height: 1000px;
+}
+
+
+
+
+
+
+
